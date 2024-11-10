@@ -46,23 +46,6 @@ Building and deploying interactive and scalable websites with a focus on respons
 
 - **DJS Codestars Website**: React.js, Tailwind CSS
 - **Backend Systems**: Express.js, PostgreSQL
-
----
-
-## 🛠️ What I'm Working On Now
-
-### 1. **Custom OS for Deep Learning**
-Building an **operating system optimized** for machine learning tasks. This OS focuses on:
-- **Streamlined resource management** for efficient model training
-- **Performance optimization** for handling large datasets
-- **Barebones GUI** for a more minimalist, performance-oriented system
-
-### 2. **AI-Powered Collaborative Platform**
-Developing a real-time collaboration tool for teams managing large-scale projects. This system includes:
-- **Advanced Permission Control** for managing complex team roles
-- **Real-time Data Syncing** across projects for enhanced collaboration
-- **Machine Learning-Driven Analytics** to track project progress
-
 ---
 
 ## 🚀 What's Next?
