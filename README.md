@@ -29,7 +29,7 @@
 
 ### 🧠 AI & Machine Learning
 - **Scikit-Learn** 📊: Go-to for building classic machine learning models.
-- **OpenAI API** 🌍: Exploring language models to build smart, AI-driven applications.
+- **Gemini API** 🌍: Exploring language models to build smart, AI-driven applications.
 
 
 ---
