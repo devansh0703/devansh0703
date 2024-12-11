@@ -1,9 +1,9 @@
  # 🌐 Welcome to My Tech Universe 🚀
 
-**Hello, World!** I’m **[Devansh Raulo]**, a passionate **Tech Explorer**, always diving deep into the world of **code** and **innovation**. Whether it’s building complex AI systems, crafting dynamic web apps, or experimenting with OS internals, I’m on a journey to push the boundaries of **what’s possible with technology**.
+**Hello, World!** I’m a passionate **Tech Explorer**, always diving deep into the world of **code** and **innovation**. Whether it’s building complex AI systems, crafting dynamic web apps, or experimenting with OS internals, I’m on a journey to push the boundaries of **what’s possible with technology**.
 ---
 
-## ⚙️ My Arsenal of Technologies
+## ⚙️ My TechStack
 
 ### 🌟 Programming Languages
 - **Java** ☕
