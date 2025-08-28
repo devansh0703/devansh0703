@@ -25,8 +25,8 @@ A passionate and driven Information Technology student with a focus on DevOps, C
 
 ### 🚀 All Projects
 
-<details>
-<summary>Click to view all projects</summary>
+
+
 
 ---
 
@@ -147,7 +147,7 @@ A passionate and driven Information Technology student with a focus on DevOps, C
 <br>
 **Tech Stack:** `JavaScript`, `TypeScript`, `Node.js`, `WebSocket API`
 
-</details>
+
 
 ---
 
