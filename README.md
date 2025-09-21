@@ -1,26 +1,5 @@
 
 # Hi there, I'm Devansh Raulo 👋
-
-A passionate and driven Information Technology student with a focus on DevOps, Cybersecurity, and AI. I enjoy building resilient, high-performance systems and exploring the intersection of software engineering and security.
-
----
-
-### 🛠️ Skills & Technologies
-
--   **Languages:** Python, Java, C, C++, HTML/CSS, JavaScript, SQL, Solidity, Shell
--   **Web Development & Web3:** NextJs, ReactJs, NodeJs, Websockets, Solidity, Smart Contracts
--   **Python Frameworks:** Pytorch, Scikit Learn, Langchain, LangGraph, FastAPI, ROS2 Humble
--   **Technologies & Frameworks:** Docker, Redis, Ngrok, Supabase, Google Cloud Platform, MySQL, Oracle DB, Clickhouse, Vercel
-
----
-
-### 💻 Experience
-
-**Deepcytes UK - Cyber Analyst Fellowship (June 2025 - Ongoing, Remote)**
-- Documented security vulnerabilities across Linux distributions.
-- Conducted detailed technical analysis of exploitation methods and potential impacts.
-- Collaborated with senior security professionals to recommend and implement mitigations.
-
 ---
 
 ### 🚀 All Projects
